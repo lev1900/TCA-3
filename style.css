@@ -5,3 +5,7 @@ div[class^="col"] {
 .row{
     border: 1px dashed red;
 }
+
+.btn-primary{
+    background-color:rgb(92, 63, 161);
+}
